@@ -32,3 +32,4 @@ int main()
     printf("Time taken: %lf seconds\n", time_spent);
     return 0;
 }
+//takes value from 0 to 18446744073709551615
